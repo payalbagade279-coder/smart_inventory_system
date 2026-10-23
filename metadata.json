@@ -1,0 +1,6 @@
+{
+  "name": "Smart Dukaan — AI-Powered Inventory & Restocking Assistant",
+  "description": "Smart inventory tracking, demand forecasting, restocking assistant, and what-if simulation for Indian retail shops and kirana stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
